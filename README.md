@@ -1,6 +1,6 @@
 ## <center>Este sou Eu 👋</center>
 
-### Quem sou Eu ?
+### Esse e Eu 
 
  * Meu nome e **Gustavo Aparecido Alves Quaresma**, tenho 16 anos, moro no **estado de São Paulo** zona leste Itam PauLista, Gosto de jogar video game e futebol.
 
