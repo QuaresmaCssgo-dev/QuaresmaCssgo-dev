@@ -1,16 +1,24 @@
-## Hi there 👋
+# este sou eu 👋
 
-<!--
-**QuaresmaCssgo-dev/QuaresmaCssgo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou o gustavvo aparecido, mas pode me chamar de quaresma que é meu sobre nome,
+<ins>estou me formando no curso tecnico de desnevolvimento de sistema do senai</ins>, Gosto de video games, futebol e da minha fámilia e amigos.
 
-Here are some ideas to get you started:
+## formação acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me formando em Tecnologia em Informática para Negócios.
+
+Posso escrever um pequeno trecho de códigos com `git status`ou então trechos maiores como o abaixo:
+
+```javascript
+const constante =0; //constante precisa ser inicializada
+```
+
+```python
+def ola_mundo() {
+    print('Olá Mundo')
+}
+```
+
+
+
+
